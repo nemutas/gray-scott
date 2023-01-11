@@ -1,17 +1,12 @@
-# three-template
+# About
 
-```
-gh repo clone nemutas/three-template
-```
+https://nemutas.github.io/gray-scott/
 
-```
-npm install
-```
+<img src='https://user-images.githubusercontent.com/46724121/211792986-2cf2a7bf-b0a3-497a-86d0-6645e3824a67.png' width='600' />
 
-# using
+# References
 
-- [Vite](https://vitejs.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Sass](https://sass-lang.com/)
-- [vite-plugin-glsl](https://github.com/UstymUkhman/vite-plugin-glsl)
-- [WebGL GLSL Editor](https://marketplace.visualstudio.com/items?itemName=raczzalan.webgl-glsl-editor) (v1.3.0 -> If the extension is set to glsl, errors originating from threejs built-in variables will not occur.)
+- [人工生命概論　第2回：生命のパターン（反応拡散方程式）](https://www.youtube.com/watch?v=7jyNYIphJIc)
+- [作って動かす ALife - 実装を通した人工生命モデル入門（ソースコード）](https://github.com/alifelab/alife_book_src/blob/master/chap02/gray_scott.py)
+- [Reaction diffusion system (Gray-Scott model)](http://pmneila.github.io/jsexp/grayscott/)
+- [👆source code](https://github.com/pmneila/jsexp)
