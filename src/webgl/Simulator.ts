@@ -6,7 +6,7 @@ import { gui } from './utils/gui'
 import { mouse2d } from './utils/Mouse2D'
 
 class Simulator {
-  private resolution = { width: 1024, height: 1024 / gl.size.aspect }
+  private resolution = { width: 1024, height: 1024 }
   private aspect = this.resolution.width / this.resolution.height
   private gpuCompute!: GPUComputationRenderer
   private variable!: Variable
